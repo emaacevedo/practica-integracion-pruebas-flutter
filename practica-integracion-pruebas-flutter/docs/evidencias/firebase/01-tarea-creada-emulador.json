@@ -1,0 +1,19 @@
+{
+  "name": "projects/demo-practica-flutter/databases/(default)/documents/tasks/NZoljcVXcKuEfp5j1IOn",
+  "fields": {
+    "description": {
+      "stringValue": ""
+    },
+    "completed": {
+      "booleanValue": false
+    },
+    "title": {
+      "stringValue": "Tarea de prueba"
+    },
+    "createdAt": {
+      "timestampValue": "2026-11-18T01:48:47.081Z"
+    }
+  },
+  "createTime": "2026-11-18T01:48:47.256732Z",
+  "updateTime": "2026-11-18T01:48:47.256732Z"
+}

@@ -1,0 +1,8 @@
+00:00 +0: loading C:/UTEC/Ciclo 2 - 2026/Flutter y Dart/practica-integracion-pruebas-flutter/practica-integracion-pruebas-flutter/test/unit/task_validator_test.dart
+00:00 +0: C:/UTEC/Ciclo 2 - 2026/Flutter y Dart/practica-integracion-pruebas-flutter/practica-integracion-pruebas-flutter/test/unit/task_validator_test.dart: rechaza título vacío o espacios
+00:00 +1: C:/UTEC/Ciclo 2 - 2026/Flutter y Dart/practica-integracion-pruebas-flutter/practica-integracion-pruebas-flutter/test/unit/task_validator_test.dart: acepta título válido
+00:00 +2: C:/UTEC/Ciclo 2 - 2026/Flutter y Dart/practica-integracion-pruebas-flutter/practica-integracion-pruebas-flutter/test/unit/task_validator_test.dart: rechaza título de más de 80 caracteres
+00:00 +3: C:/UTEC/Ciclo 2 - 2026/Flutter y Dart/practica-integracion-pruebas-flutter/practica-integracion-pruebas-flutter/test/widget_test.dart: la aplicación muestra el listado vacío al iniciar
+00:01 +4: C:/UTEC/Ciclo 2 - 2026/Flutter y Dart/practica-integracion-pruebas-flutter/practica-integracion-pruebas-flutter/test/widget/task_form_test.dart: formulario vacío no llama al repositorio
+00:01 +5: C:/UTEC/Ciclo 2 - 2026/Flutter y Dart/practica-integracion-pruebas-flutter/practica-integracion-pruebas-flutter/test/widget/task_form_test.dart: formulario válido guarda una tarea
+00:02 +6: All tests passed!
